@@ -1,1 +1,16 @@
-/* Add CSS Styling */
+.class{
+    background-color: #FF9999;
+    font-family: "Veranda", "DejaVu Sans", sans-serif;
+}
+#id1{
+    color: #0000CC;
+    font-size: 36px;
+}
+.second{
+    font-size: 24px;
+}
+#id2{
+    background-color: #33FF33;
+    font-size: 24px;
+    font-weight: 700;
+}
