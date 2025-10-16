@@ -1,1 +1,11 @@
-/* Add CSS Styling */
+.usable{
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+}
+.special1{
+    background-color: black;
+    color: white;
+}
+.special2{
+    background-color: yellow;
+}
