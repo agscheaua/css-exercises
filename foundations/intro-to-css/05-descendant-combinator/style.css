@@ -1,1 +1,6 @@
-/* Add CSS Styling */
+.container .text{
+    background-color: yellow;
+    color: orange;
+    text-align: center;
+    font-weight: 700;
+}
