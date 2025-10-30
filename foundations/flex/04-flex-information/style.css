@@ -8,6 +8,9 @@ body {
   display: flex;
   justify-content: center;
   margin-bottom: 30px;
+  font-size: 36px;
+  font-weight: 900;
+  width: 1000px;
 }
 
 .content{
@@ -16,24 +19,16 @@ body {
   width: 1000px
   }
 
-  div .text{
-    text-align: center;
-  }
-
+div .text{
+  text-align: center;
+}
 
 img {
   width: 100px;
   height: 100px;
-}
-
-.title {
-  font-size: 36px;
-  font-weight: 900;
-}
-
-img{
   margin-left: 80px;
 }
+
 
 
 /* do not edit this footer */
